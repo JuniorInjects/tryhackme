@@ -1,0 +1,8 @@
+In the above screenshots, what is the URI of the blocked image?
+https://i.imgur.com/LSWOtDI.png
+
+In the above screenshots, what is the name of the PDF attachment?
+Payment-updateid.pdf
+
+In the attached virtual machine, view the information in email2.txt and reconstruct the PDF using the base64 data. What is the text within the PDF?
+THM{BENIGN_PDF_ATTACHMENT}
