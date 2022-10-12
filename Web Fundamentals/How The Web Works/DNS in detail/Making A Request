@@ -1,0 +1,8 @@
+What field specifies how long a DNS record should be cached for?
+TTL
+
+What type of DNS Server is usually provided by your ISP?
+Recursive
+
+What type of server holds all the records for a domain?
+authoritative
