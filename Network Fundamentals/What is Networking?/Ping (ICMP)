@@ -1,0 +1,8 @@
+What protocol does ping use?
+ICMP
+
+What is the syntax to ping 10.10.10.10?
+ping 10.10.10.10
+
+What flag do you get when you ping 8.8.8.8?
+THM{I_PINGED_THE_SERVER}
