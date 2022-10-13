@@ -1,0 +1,2 @@
+Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
+THM{ACCESS}
