@@ -1,0 +1,5 @@
+If we wanted to output the text "TryHackMe", what would our command be?
+echo TryHackMe
+
+What is the username of who you're logged in as on your deployed Linux machine?
+tryhackme
