@@ -1,0 +1,8 @@
+On the deployable machine, who is the owner of "important"?
+user2
+
+What would the command be to switch to the user "user2"?
+su user2
+
+Output the contents of "important", what is the flag?
+THM{SU_USER2}
