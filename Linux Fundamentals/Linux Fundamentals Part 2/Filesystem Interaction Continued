@@ -1,0 +1,11 @@
+How would you create the file named "newnote"?
+touch newnote
+
+On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory?
+ASCII text
+
+How would we move the file "myfile" to the directory "myfolder" 
+mv myfile myfolder
+
+What are the contents of this file?
+THM{FILESYSTEM}
