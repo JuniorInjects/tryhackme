@@ -1,0 +1,11 @@
+What is the flag from the HTML comment?
+ THM{HTML_COMMENTS_ARE_DANGEROUS}
+ 
+What is the flag from the secret link?
+THM{NOT_A_SECRET_ANYMORE}
+
+What is the directory listing flag?
+THM{INVALID_DIRECTORY_PERMISSION}
+
+What is the framework flag?
+THM{KEEP_YOUR_SOFTWARE_UPDATED}
